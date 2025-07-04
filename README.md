@@ -1,2 +1,2 @@
 # Arcade_Game
-Sketches, 3D prints, code, and instructions for creating a full arcade style game with arcade cabinet
+3D print files, code, and joystick rigging for creating a full arcade style game and control
