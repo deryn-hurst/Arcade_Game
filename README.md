@@ -41,3 +41,11 @@ The game files folder contains two types of files:
 
   - The joystick code directly correlates to the keyboard control associated with the Key Listener in
     GamePanel.java. If anything is changed for key events, the code must also be changed for the Arduino.
+
+<b> SNAKE GAME FILES </b>
+  - There are a bonus set of files to run the game Snake. It does not have a leaderboard or 
+  restart game capabilities, but they can be updated using the template set in the Pong
+  game files.
+  - The structure is the same as the Pong files, with GameFrame.java, GamePanel.java, and SnakeGame.java
+    files that have the exact same behaviors.
+  
